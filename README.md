@@ -8,4 +8,4 @@
 - [Chart JS](https://reactchartjs.github.io/react-chartjs-2/#/)
 
 ## About project
- - .[keeps track of crypto currency and shows the available crytocurrency in required currency]
+ - [keeps track of crypto currency and shows the available crytocurrency in required currency]()
